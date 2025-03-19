@@ -1,0 +1,23 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-01 05:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2024-07-01 05:10:17 +0000",
+      "minecraft:desert": "2024-07-01 05:10:13 +0000",
+      "minecraft:stony_peaks": "2024-07-01 05:09:24 +0000",
+      "minecraft:forest": "2024-07-01 05:08:11 +0000",
+      "minecraft:sparse_jungle": "2024-07-01 05:09:41 +0000",
+      "minecraft:jungle": "2024-07-01 05:09:00 +0000",
+      "minecraft:river": "2024-07-01 05:09:09 +0000",
+      "minecraft:bamboo_jungle": "2024-07-01 05:10:03 +0000",
+      "minecraft:plains": "2024-07-01 05:09:10 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3953
+}
